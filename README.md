@@ -4,4 +4,4 @@ tai sen sisällön voi vaihtoehtoisesti suorittaa komentokehotteella (esim. Powe
 cd tiedostosijainti\App
 dotnet run
 
-App on projektin Main-metodi.
+App sisältää projektin Main-metodin.
